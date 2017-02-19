@@ -1,5 +1,4 @@
-// Maeve Potter, mp0000@bard.edu, no collaboration, it doesn't fully work and I don't know why.. In github, the canvas doesn't appear.
-//We were trying to accomplish an increased sense of space within a webpage. Graphics are different from text in that it is a much more visual process.
+// Maeve Potter, mp0000@bard.edu, no collaboration, everything works well, I think I need another dynamic aspect
 
     function setup() {
 createCanvas(500, 500);
